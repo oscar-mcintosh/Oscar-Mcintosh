@@ -9,7 +9,6 @@ Experienced Front-End Web Developer Contractor with over 5 years of expertise in
 * 🌍  I'm based in Lincoln, Nebraska
 * 🖥️  See my portfolio at [My portfolio](http:////oscar-mcintosh.netlify.app/)
 * ✉️  You can contact me at [oscar\_mcintosh@msn.com](mailto:oscar_mcintosh@msn.com)
-* 🚀  I'm currently working on [A real estate website](http://nerealty.netlify.app/)
 
 ### Skills
 
